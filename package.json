@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@solana/web3.js": "^1.90.0",
+    "typescript": "^5.3.3"
+  },
+  "name": "solana-wallet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
